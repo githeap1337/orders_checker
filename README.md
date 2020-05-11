@@ -1,8 +1,11 @@
 ###################### ORDERS_CHECKER ######################
 ############################################################
+
 This program designed to check the appearance of new order
 in google spreadsheet file and send it to telegram account.
+
 ############################################################
+
 To use this program you have to:
 * create a service account for google drive api;
 * add the .json file with your private key to this project;
@@ -13,5 +16,7 @@ google spreadsheet;
 variables;
 * install dependencies from requirements.txt;
 and run parser.py
+
 ############################################################
+
 for all questions: githeap1337@gmail.com
